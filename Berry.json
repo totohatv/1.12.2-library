@@ -255,8 +255,8 @@
             }
           ]
         },
-	    {
-	        "id": "armourers_workshop:Armourers:1.12.2-0.51.0",
+	{
+	    "id": "armourers_workshop:Armourers:1.12.2-0.51.0",
             "name": "Armourers-Workshop-1.12.2-0.51.0",
             "type": "ForgeMod",
             "artifact": {
@@ -265,8 +265,8 @@
               "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/Armourers-Workshop.jar"
           }
         },
-	    {
-	        "id": "customnpcs:customnpcs:1.12.2",
+	{
+	    "id": "customnpcs:customnpcs:1.12.2",
             "name": "customnpcs",
             "type": "ForgeMod",
             "artifact": {
@@ -275,8 +275,8 @@
               "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/CustomNPCs.jar"
           }
         },
-	    {
-	        "id": "journeymap:journeymap:1.12.2",
+	{
+	    "id": "journeymap:journeymap:1.12.2",
             "name": "journeymap",
             "type": "ForgeMod",
             "artifact": {
@@ -285,8 +285,8 @@
               "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/journeymap.jar"
           }
         },
-	    {
-	        "id": "koreanchat:koreanchat:1.12.2",
+	{
+	    "id": "koreanchat:koreanchat:1.12.2",
             "name": "koreanchat",
             "type": "ForgeMod",
             "artifact": {
@@ -295,8 +295,8 @@
               "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/koreanchatCreo.jar"
           }
         },
-	    {
-	        "id": "mcef:mcef:1.12.2",
+	{
+	    "id": "mcef:mcef:1.12.2",
             "name": "mcef",
             "type": "ForgeMod",
             "artifact": {
@@ -305,8 +305,8 @@
               "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/MinecraftChromiumEmbeddedFramework.jar"
           }
         },
-	    {
-	        "id": "OptiFine:OptiFineHD:1.12.2",
+	{
+	    "id": "OptiFine:OptiFineHD:1.12.2",
             "name": "OptiFine",
             "type": "ForgeMod",
             "artifact": {
@@ -315,8 +315,8 @@
               "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/OptiFine.jar"
           }
         },
-	    {
-	        "id": "variedcommodities:variedcommodities:1.12.2",
+	{
+	    "id": "variedcommodities:variedcommodities:1.12.2",
             "name": "variedcommodities",
             "type": "ForgeMod",
             "artifact": {
@@ -325,8 +325,8 @@
               "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/VariedCommodities.jar"
           }
         },
-	    {
-	        "id": "webdisplays:webdisplays:1.12.2",
+	{
+	    "id": "webdisplays:webdisplays:1.12.2",
             "name": "webdisplays",
             "type": "ForgeMod",
             "artifact": {
@@ -335,8 +335,8 @@
               "url": "https://raw.githubusercontent.com/loveiu1278/berrymod/main/mods/WebDisplaysMod.jar"
           }
         },
-	    {
-	        "id": "pixelmon:pixelmon:1.12.2",
+	{
+	    "id": "pixelmon:pixelmon:1.12.2",
             "name": "pixelmon",
             "type": "ForgeMod",
             "artifact": {
