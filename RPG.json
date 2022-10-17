@@ -256,83 +256,73 @@
           ]
         },
         {
-          "id": "moe.plushie:Armourers-Workshop:1.12.2-0.51.0@jar",
+          "id": "Armourers:Workshop:1.12.2-0.49.1@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2678747,
-            "url": "https://raw.githubusercontent.com/totohatv/are/main/mods/Armourers-Workshop-1.12.2-0.51.0.jar",
-            "MD5": "12954551f39bed840b32fd8be8fddb54"
+            "size": 2371775,
+            "url": "https://raw.githubusercontent.com/totohatv/1.12.2-library/main/mods/Armourers-Workshop-1.12.2-0.51.0.jar",
+            "MD5": "f9ae7b411caaec416dda0a696c8ba7b7"
           }
         },
-		{
-          "id": "cfm:630:mc1.12@jar",
+	{
+          "id": "CustomNPCs:1.12.2:(05Jul20)@jar",
           "name": "CustomNPCs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2614514,
-            "url": "https://raw.githubusercontent.com/totohatv/are/main/mods/cfm-6.3.0-mc1.12.2.jar",
-            "MD5": "3927905f13d58687883e4c3504677cb1"
+            "size": 9911871,
+            "url": "https://raw.githubusercontent.com/totohatv/1.12.2-library/main/mods/CustomNPCs_1.12.2-(05Jul20).jar",
+            "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
           }
         },
-        {
-          "id": "noppes.npcs:customnpcs:1.12@jar",
-          "name": "CustomNPCs",
+	{
+          "id": "Decocraft:2.6.3:1.12.2@jar",
+          "name": "Decocraft",
           "type": "ForgeMod",
           "artifact": {
-            "size": 13056845,
-            "url": "https://raw.githubusercontent.com/totohatv/are/main/mods/CustomNPC_0219.jar",
-            "MD5": "a4cadf9f81b1a1ed0593c97c5dd5d969"
+            "size": 16747522,
+            "url": "https://raw.githubusercontent.com/totohatv/1.12.2-library/main/mods/Decocraft-2.6.3_1.12.2.jar",
+            "MD5": "f9a8eb5ac8e45f1438ef937dc48b882b"
           }
         },
-        {
-          "id": "creo.mod:koreanchat:1.12-1.9@jar",
-          "name": "Korean Chat",
+	{
+          "id": "PTRLib:1.0.4:1.12.2@jar",
+          "name": "PTRLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 169483,
+            "url": "https://raw.githubusercontent.com/totohatv/1.12.2-library/main/mods/PTRLib-1.0.4.jar",
+            "MD5": "7cdde85216395abe430a7ff185650370"
+          }
+        },
+	{
+          "id": "Varied:Commodities:mod-1.12.2@jar",
+          "name": "Varied-Commodities-Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1548397,
+            "url": "https://raw.githubusercontent.com/totohatv/1.12.2-library/main/mods/Varied-Commodities-Mod-1.12.2.jar",
+            "MD5": "5ce33db5db477dad820a7dd7de974425"
+          }
+        },
+	{
+          "id": "DamageIndicators:mod:3.5.1-1.12.2@jar",
+          "name": "DamageIndicators-Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 285416,
+            "url": "https://raw.githubusercontent.com/totohatv/1.12.2-library/main/mods/[1.12.2]DamageIndicatorsMod-3.5.1.jar",
+            "MD5": "09dd0cd435c1185b796b3557cbce6cdc"
+          }
+        },
+	{
+          "id": "koreanchat:creo:1.12-1.9@jar",
+          "name": "koreanchat",
           "type": "ForgeMod",
           "artifact": {
             "size": 30763,
-            "url": "https://raw.githubusercontent.com/totohatv/are/main/mods/koreanchat-creo-1.12-1.9.jar",
+            "url": "https://raw.githubusercontent.com/totohatv/1.12.2-library/main/mods/koreanchat-creo-1.12-1.9.jar",
             "MD5": "91492de16021a4f7018eb5d523f45fc2"
-          }
-        },
-        {
-          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
-          "name": "OptiFine 1.12.2_HD_U_G5",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2598821,
-            "url": "https://raw.githubusercontent.com/totohatv/are/main/mods/OptiFine_1.12.2_HD_U_F5.jar",
-            "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
-          }
-        },
-        {
-          "id": "Pam_s:HarvestCraft:1.12.2zg@jar",
-          "name": "HarvestCraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5259561,
-            "url": "https://raw.githubusercontent.com/totohatv/are/main/mods/Pam_s+HarvestCraft+1.12.2zg.jar",
-            "MD5": "649b44e47af5f9ed5a294a55574c7a7d"
-          }
-        },
-        {
-          "id": "QuestBuilder:1.8.1:Release@jar",
-          "name": "QuestBuilder",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 139102,
-            "url": "https://raw.githubusercontent.com/totohatv/are/main/mods/QuestBuilder-1.8.1-Release.jar",
-            "MD5": "101da1439424112f9cdf390397c894eb"
-          }
-        },
-        {
-          "id": "Pixelmon:Reforged:1.12.2@jar",
-          "name": "Pixelmon-1.12.2-universal",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 362820181,
-            "url": "https://docs.google.com/uc?export=download&id=1F_FLTGfa_UG6PBYlqMC51u2WfskskYfj&confirm=t",
-            "MD5": "080bcfd77becf3be521c2f8276258fc1"
           }
         }
       ]
