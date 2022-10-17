@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "Are",
+      "id": "RPG",
       "name": "『리인카네이트』",
       "description": "버전 : 1.12.2",
       "icon": "",
@@ -16,8 +16,8 @@
       "address": "",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "포켓몬 서버",
-        "largeImageText": "Are Online",
+        "shortId": "RPG서버",
+        "largeImageText": "리인카네이트",
         "largeImageKey": "server-prod"
       },
       "mainServer": true,
